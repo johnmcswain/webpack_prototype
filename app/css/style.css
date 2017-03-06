@@ -1,0 +1,5 @@
+@import url("https://unpkg.com/purecss@0.6.2/build/pure-min.css");
+
+body{
+    background-color: #aaa;
+}
